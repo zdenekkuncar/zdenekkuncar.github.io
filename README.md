@@ -1,1 +1,3 @@
-# Zdenek Kuncar - personal website
+# Personal website
+Zdenek Kuncar
+Product Designer at productboard
