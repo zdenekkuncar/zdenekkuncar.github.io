@@ -1,2 +1,1 @@
-# zdenekkuncar.github.io
-Personal website
+# Zdenek Kuncar - personal website
